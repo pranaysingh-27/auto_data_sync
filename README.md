@@ -1,5 +1,4 @@
-# datasync
-Automated Data Synchronization System using AWS
+# Automated Data Synchronization System using AWS
 
 Step 1: Set up AWS S3 Buckets Create source and destination Amazon S3 buckets for data transfer.
 
